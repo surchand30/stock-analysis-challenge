@@ -1,4 +1,3 @@
-# stock-analysis
 Stock Investment Analysis
 
 OVERVIEW :
@@ -9,8 +8,12 @@ RESULTS :
 
 For the year 2017, all the stocks except for TERP gave positive returns. The highest returns were achieved for the DQ stocks with SEDG coming a close second.
 
+![2017 Stock Analysis] (https://github.com/surchand30/stock-analysis-challenge/blob/master/2017_Analysis.png)
+
 
 In 2018, all stocks yielded negative returns except for ENPH and RUN. JKS was the least favorable stock to invest in 2018.
+
+![2018 Stock Analysis] (https://github.com/surchand30/stock-analysis-challenge/blob/master/2018_Analysis.png)
 
 SUMMARY :
 
